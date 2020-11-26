@@ -1,0 +1,23 @@
+{
+  "name": "graphql_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EKettu/GraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EKettu/GraphQL/issues"
+  },
+  "homepage": "https://github.com/EKettu/GraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0"
+  }
+}
