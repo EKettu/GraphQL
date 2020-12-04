@@ -22,7 +22,6 @@ const NewBook = (props) => {
     event.preventDefault()
     
     console.log('add book...')
-    console.log(typeof(published))
     createBook({  variables: { title, published, author, genres } })
 
     setTitle('')
